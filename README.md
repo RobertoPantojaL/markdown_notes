@@ -113,7 +113,7 @@ Puedes probar varias características de Markdown, como:
   ```markdown
   ```javascript
   console.log("Este es un bloque de código.");
-  ```
+  ```(estas son comillas de cierre)
   ```
 
 - **Estilos adicionales**:
