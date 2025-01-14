@@ -74,7 +74,6 @@ Puedes probar varias características de Markdown, como:
   ## Título secundario
   ### Título terciario
   ```
-
 - **Listas**:
   Crea listas con viñetas usando `-` o `*`, y listas numeradas con `1.`:
   ```markdown
